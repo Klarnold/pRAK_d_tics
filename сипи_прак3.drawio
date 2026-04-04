@@ -1,0 +1,159 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="Bh8QXKkMuoducIJsIWgQ">
+    <mxGraphModel dx="1303" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_umiqNCOAfaag0sMnoyw-30" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="_umiqNCOAfaag0sMnoyw-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="420" />
+              <mxPoint x="280" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-32" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_umiqNCOAfaag0sMnoyw-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-33" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_umiqNCOAfaag0sMnoyw-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="560" />
+              <mxPoint x="450" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-34" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_umiqNCOAfaag0sMnoyw-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-35" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_umiqNCOAfaag0sMnoyw-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Игрок&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-29" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="_umiqNCOAfaag0sMnoyw-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="330" />
+              <mxPoint x="344" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Запустить игру" vertex="1">
+          <mxGeometry height="60" width="114" x="350" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Залогиниться на игровой площадке" vertex="1">
+          <mxGeometry height="60" width="180" x="190" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-37" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" target="_umiqNCOAfaag0sMnoyw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Преднастроить игровую сессию" vertex="1">
+          <mxGeometry height="60" width="210" x="230" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-39" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=open;endFill=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Начать игровую сессию" vertex="1">
+          <mxGeometry height="60" width="170" x="456" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Завершить игровую сессию" vertex="1">
+          <mxGeometry height="60" width="190" x="570" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-42" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="_umiqNCOAfaag0sMnoyw-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="690" />
+              <mxPoint x="770" y="340" />
+              <mxPoint x="447" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Просмотреть игровой прогресс" vertex="1">
+          <mxGeometry height="70" width="254" x="414" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-38" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.665;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;dashed=1;" target="_umiqNCOAfaag0sMnoyw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Игрок" vertex="1">
+          <mxGeometry height="80" width="120" x="641" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-47" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-46" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="_umiqNCOAfaag0sMnoyw-46" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="695" y="1100" as="sourcePoint" />
+            <mxPoint x="745" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-56" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Приобретение игры на игровой площадке" vertex="1">
+          <mxGeometry height="60" width="140" x="875" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-62" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Запуск игры" vertex="1">
+          <mxGeometry height="60" width="140" x="430" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Проведение игровой сессии" vertex="1">
+          <mxGeometry height="60" width="140" x="935" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-57" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-52" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="игра зарегистрирована на аккаунте игрока" vertex="1">
+          <mxGeometry height="60" width="177.5" x="856.25" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-59" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_umiqNCOAfaag0sMnoyw-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Установка игры" vertex="1">
+          <mxGeometry height="60" width="140" x="641" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-54" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-60" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-58" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="игра установлена" vertex="1">
+          <mxGeometry height="60" width="130" x="435" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-68" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-61" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="Игра запущена" vertex="1">
+          <mxGeometry height="60" width="130" x="589" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-67" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-64" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="Завершение игровой сессии" vertex="1">
+          <mxGeometry height="60" width="160" x="925" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-69" edge="1" parent="1" source="_umiqNCOAfaag0sMnoyw-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_umiqNCOAfaag0sMnoyw-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_umiqNCOAfaag0sMnoyw-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Проведение игровой сессии" vertex="1">
+          <mxGeometry height="60" width="140" x="755" y="1050" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
